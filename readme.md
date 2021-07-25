@@ -174,7 +174,7 @@ if we calculate this derivative we reach to this equation:
 
 clearly our algorithm will be this:
 
-![derivative_result](images/15.png)
+![derivative_result](images/16.png)
 
 ## problem solved!
 
