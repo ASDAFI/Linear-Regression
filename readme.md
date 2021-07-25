@@ -176,7 +176,7 @@ clearly our algorithm will be this:
 
 ![derivative_result](images/16.png)
 
-## problem solved!
+**problem solved!**
 
 
 #### now we want to know what is batch and batch_size?
@@ -235,4 +235,5 @@ here is sample.py wich used this library to solve a question and it will help yo
 
 # &
 Special Thanks to Andrew NG
+
 some photos are from machine learning course wich has been teached by Andrew NG!)
