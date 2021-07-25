@@ -35,8 +35,10 @@ now how we can reach to the best function?
 
 
 ## 1 - Defining our function:
-here we used gradient descent algorithm.
+
+
 in this algorithm we define our function in this way:
+
 m is count of memebers in X and y
 
 m = lenght X and Y = |X| = |Y|
