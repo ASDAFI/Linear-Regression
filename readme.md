@@ -39,9 +39,6 @@ now how we can reach to the best function?
 
 in this algorithm we define our function in this way:
 
-m is count of memebrs in X and y
-
-m = lenght X and Y = |X| = |Y|
 
 ![h(x)](images/3.png)
 
@@ -69,9 +66,16 @@ We can measure the accuracy of our hypothesis function(h) by using a cost functi
 
 
 
+
 we need to define a loss function.
 loss function will calculate our errors.
 we define our loss function that named J in this way:
+
+m is count of memebrs in X and y
+
+m = lenght X and Y = |X| = |Y|
+
+
 
 <img src="images/6.png" width="80%" height="10%"/>
 
