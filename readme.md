@@ -39,7 +39,7 @@ now how we can reach to the best function?
 
 in this algorithm we define our function in this way:
 
-m is count of memebers in X and y
+m is count of memebrs in X and y
 
 m = lenght X and Y = |X| = |Y|
 
