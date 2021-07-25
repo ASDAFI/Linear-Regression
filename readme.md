@@ -1,5 +1,5 @@
 
-# Problem:
+# Problem
 
 imagine you have a dataset wich is (X,Y)
 and you want an function wich can map X to Y
@@ -31,7 +31,7 @@ and here is a sample data wich we collected:
 now how we can reach to the best function?
 
 
-# Solution:
+# Solution
 
 
 ## 1 - Defining our function:
