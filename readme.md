@@ -181,6 +181,7 @@ clearly our algorithm will be this:
 
 #### now we want to know what is batch and batch_size?
 we train {batch_size} count of labels from dataset in each epoch
+
 0 < batch_size < m
 
 ## Advantages:
