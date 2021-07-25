@@ -34,7 +34,7 @@ now how we can reach to the best function?
 # Solution
 
 
-## 1 - Defining our function:
+## 1 - Defining our function
 
 
 in this algorithm we define our function in this way:
