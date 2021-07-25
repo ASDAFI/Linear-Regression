@@ -8,7 +8,7 @@ this library and algorithm will help you in this way to reach high accuracy...
 
 let me tell more about usage in real world:
 
-imagine we have Given data about the size of houses on the real estate market, we should predict the price by the size.
+imagine have Given data about the size of houses on the real estate market, we should predict the price by the size.
 
 we spend time to collect data in city
 
