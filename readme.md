@@ -20,7 +20,7 @@ and it should be accurate
 
 here is action we want to do:
 
-<img src="images/1.png" width="20%" height="10%"/>
+<img src="images/1.png" width="40%" height="10%"/>
 
 
 
